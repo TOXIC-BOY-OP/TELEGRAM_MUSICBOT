@@ -1,8 +1,8 @@
 {
-  "name": "RiZoeLXMusic",
+  "name": "❥︎❥︎𝐓𝐎𝐗𝐈𝐂-𝐌𝐔𝐒𝐈𝐂𝐁𝐎𝐓❥︎❥︎",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by RiZoeL",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/MrRizoel/RiZoeLXMusic",
+  "repository": "https://github.com/TOXIC-BOY-OP/TELEGRAM_MUSICBOT",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
