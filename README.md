@@ -1,4 +1,4 @@
-<h2 align="centre">ℝ𝚒ℤ𝚘𝚎𝕃𝕏𝕄𝚞𝚜𝚒𝚌 🎵</h2>
+<h2 align="centre">𝐓𝐎𝐗𝐈𝐂-𝐌𝐔𝐒𝐈𝐂𝐁𝐎𝐓 🎵</h2>
 
 ### A bot that can play music on telegram group's voice call
 
@@ -7,7 +7,7 @@
 </p>
 <H3>Creator</h3>
 
-[![telegram badge](https://img.shields.io/badge/@TheRiZoeL-30302f?style=for-the-badge&logo=telegram)](https://t.me/TheRiZoeL)
+[![telegram badge](https://img.shields.io/badge/@OFFLINE_HU_VMRO-30302f?style=for-the-badge&logo=telegram)](https://t.me/OFFLINE_HU_VMRO)
 
 <h3>Requirements 📝</h3>
 
